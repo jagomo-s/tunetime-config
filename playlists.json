@@ -1,0 +1,28 @@
+{
+  "groups": [
+    {
+      "id": "default",
+      "playlistIds": [
+        "pl.84a2fc2740ba430c9af0f95d7e96a8de"
+      ]
+    },
+    {
+      "id": "special",
+      "playlistIds": [
+        "pl.84a2fc2740ba430c9af0f95d7e96a8de"
+      ]
+    },
+    {
+      "id": "genre",
+      "playlistIds": [
+        "pl.84a2fc2740ba430c9af0f95d7e96a8de"
+      ]
+    },
+    {
+      "id": "artist",
+      "playlistIds": [
+        "pl.84a2fc2740ba430c9af0f95d7e96a8de"
+      ]
+    }
+  ]
+}
