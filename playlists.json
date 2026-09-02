@@ -9,19 +9,22 @@
     {
       "id": "special",
       "playlistIds": [
-        "pl.84a2fc2740ba430c9af0f95d7e96a8de"
+        "pl.e52842b604b6439999494ae9be0f3607"
       ]
     },
     {
       "id": "genre",
       "playlistIds": [
-        "pl.84a2fc2740ba430c9af0f95d7e96a8de"
+        "pl.dcd8b6d5276a43b481fbbf32aa05fb26",
+        "pl.de1ac365ed3549698bcd6e099db5171d"
       ]
     },
     {
       "id": "artist",
       "playlistIds": [
-        "pl.84a2fc2740ba430c9af0f95d7e96a8de"
+        "pl.bca7ed31389842108896524e2edbd956",
+        "pl.3950454ced8c45a3b0cc693c2a7db97b",
+        "pl.f475b81eaf7546ffb8ffd20889f37032"
       ]
     }
   ]
