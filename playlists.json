@@ -9,14 +9,31 @@
     {
       "id": "special",
       "playlistIds": [
-        "pl.e52842b604b6439999494ae9be0f3607"
+        "pl.e52842b604b6439999494ae9be0f3607",
+        "pl.b477839538364c8db8f3950e13731ecc",
+        "pl.a07a293b6e514d798a83ce17beb2e258",
+        "pl.9e2fca407e2842e7b65aa2d6d9b58925"
       ]
     },
     {
       "id": "genre",
       "playlistIds": [
         "pl.dcd8b6d5276a43b481fbbf32aa05fb26",
-        "pl.de1ac365ed3549698bcd6e099db5171d"
+        "pl.de1ac365ed3549698bcd6e099db5171d",
+        "pl.1a7fd42205674dd282d106f533f4bea6",
+        "pl.1a58f90e44d248dfac7d2209bbad8a77",
+        "pl.5c8a102d77c9473d917d42befa749939",
+        "pl.91bb4fa108b0419da0e1cd4922bc6d8c",
+        "pl.b4b3161e3d0c4b9fad834af8591d1d02",
+        "pl.feff5243ee0d4dac9a6797dcd1655e3b",
+        "pl.0ca3dc2ed6764f6d882b4c1080a7c51a",
+        "pl.bdbf992bdd754cb2b5ff5aed3b4e66ee",
+        "pl.5982c316f88c46f1a5b00c4e2acc348f",
+        "pl.60f0ddb0b1ca423d9c30b5aa8f9d5f94",
+        "pl.b553cd52fbf249d1b9b0bfe3e0cff543",
+        "pl.b55151b94efb4132898823974a1aec0e",
+        "pl.7c5c00d3b2454c3a8bcbb5da3f395988",
+        "pl.7e1ccc5320ac455c86632e0301117dd1"
       ]
     },
     {
@@ -25,7 +42,9 @@
         "pl.f745309ae7c74cae95a3f25e41de23d3",
         "pl.bca7ed31389842108896524e2edbd956",
         "pl.3950454ced8c45a3b0cc693c2a7db97b",
-        "pl.f475b81eaf7546ffb8ffd20889f37032"
+        "pl.f475b81eaf7546ffb8ffd20889f37032",
+        "pl.e3f795a77109484c898b7eddab94b191",
+        "pl.13e7f6b44b1c4de5a532e70b73ae0f9b"
       ]
     }
   ]
